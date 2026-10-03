@@ -8,6 +8,7 @@ Matkul	: Sistem operasi
 Tugas
 
 1.Buatlah 50 Perintah Terminal Ubuntu beserta Fungsi dan Screenshot dan Upload Project ke GitHub
+
 Jawab
 
 1. pwd
