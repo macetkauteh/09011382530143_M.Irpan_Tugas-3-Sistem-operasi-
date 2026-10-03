@@ -14,36 +14,42 @@ Jawab
 1. pwd
 
 Fungsi: Menampilkan lokasi direktori kerja saat ini (path lengkap).
- 
+ ![Gambar 50](<WhatsApp Image 2026-10-03 at 16.03.35.jpeg>)
 
 2. ls
 
 Fungsi: Menampilkan daftar file dan folder di direktori aktif.
- 
+ ![Gambar 1](<Screenshot from 2026-10-03 16-05-07.png>)
+
 
 3. ls -la
    
 Fungsi: Menampilkan semua file (termasuk file tersembunyi) beserta detail izin, pemilik, dan ukuran.
- 
+ ![Gambar 2](<Screenshot from 2026-10-03 16-05-51.png>)
+
 
 4. cd nama_folder
    
 Fungsi: Berpindah (change directory) ke folder yang dituju.
- 
+ ![Gambar 3](<Screenshot from 2026-10-03 16-06-22.png>)
+
 
 5. cd ..
     
 Fungsi: Berpindah satu tingkat ke direktori induk (parent directory).
- 
+ ![Gambar 4](<Screenshot from 2026-10-03 16-07-31.png>)
+
 6. mkdir nama_folder
     
 Fungsi: Membuat folder (direktori) baru.
- 
+ ![Gambar 5](<Screenshot from 2026-10-03 16-07-59.png>)
+
 
 7. rmdir nama_folder
     
 Fungsi: Menghapus folder kosong.
- 
+ ![Gambar 6](<Screenshot from 2026-10-03 16-08-53.png>)
+
 
 8. rm nama_file
     
